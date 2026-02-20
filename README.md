@@ -29,6 +29,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
+
+- [2026-02-20-AI-에이전트-구축-도전과-자동화-문제](ai-agent/2026-02-20-AI-에이전트-구축-도전과-자동화-문제.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
